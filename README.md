@@ -1,4 +1,3 @@
-# thedxbe
 <h1 align="left">Hi 👋, I'm Bbell</h1>
 <h4 align="left">A passionate front-end developer</h3>
 
